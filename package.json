@@ -4,8 +4,6 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "react": "^15.5.4",
-    "react-dom": "^15.5.4"
   },
   "devDependencies": {},
   "scripts": {
